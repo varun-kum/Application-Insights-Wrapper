@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsights.Logger", "ApplicationInsights.Logger\ApplicationInsights.Logger.csproj", "{618ADB44-D961-4507-AF19-75868FDD3C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsights.Logger.TesterConsole", "ApplicationInsights.Logger.TesterConsole\ApplicationInsights.Logger.TesterConsole.csproj", "{704ED6BB-44B3-4702-8AE0-A380BCBF9C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618ADB44-D961-4507-AF19-75868FDD3C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618ADB44-D961-4507-AF19-75868FDD3C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618ADB44-D961-4507-AF19-75868FDD3C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618ADB44-D961-4507-AF19-75868FDD3C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704ED6BB-44B3-4702-8AE0-A380BCBF9C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704ED6BB-44B3-4702-8AE0-A380BCBF9C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704ED6BB-44B3-4702-8AE0-A380BCBF9C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704ED6BB-44B3-4702-8AE0-A380BCBF9C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2EDBF6-E74C-4D55-BEDA-BE106571EE01}
+	EndGlobalSection
+EndGlobal
